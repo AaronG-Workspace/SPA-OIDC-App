@@ -165,6 +165,6 @@ WSO2. (2020). *Building a single page application with OIDC authentication #Iden
 
 ---
 
-## Author
-
+## Authors
 CST-640: Student-M252
+Claude Code
